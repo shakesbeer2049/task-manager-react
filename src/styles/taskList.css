@@ -1,0 +1,23 @@
+.task-complete{
+    background:#26725e;
+    color: whitesmoke;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.task-incomplete{
+    background: orangered;
+    color: whitesmoke;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.table-main-div{
+    height: 90vh;
+}
+
+.task-title:hover{
+    color: #26725e;
+    font-weight: bold;
+}
+
