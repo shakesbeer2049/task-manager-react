@@ -1,3 +1,8 @@
+#How to run:
+#cd into project directory and npm install
+#open a terminal and  npx json-server db.json -  this will start the mock json server
+#open another terminal and npm run dev - this will start the react app
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
